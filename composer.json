@@ -1,0 +1,13 @@
+{
+    "name": "gonzalo123/process",
+    "description": "Real time sf2 process command viewer",
+    "require": {
+        "symfony/process": "v2.1.2"
+    },
+    "authors": [
+        {
+            "name": "Gonzalo Ayuso",
+            "email": "gonzalo123@gmail.com"
+        }
+    ]
+}
